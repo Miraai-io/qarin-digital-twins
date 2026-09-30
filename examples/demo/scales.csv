@@ -1,0 +1,12 @@
+scale,item_id,key
+Planning,pl_01,1
+Planning,pl_02,1
+Planning,pl_03,-1
+Planning,pl_04,1
+Social Ease,se_01,1
+Social Ease,se_02,1
+Social Ease,se_03,-1
+Social Ease,se_04,1
+Checking,ch_01,1
+Checking,ch_02,-1
+Checking,ch_03,1

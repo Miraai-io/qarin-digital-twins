@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Qarin - Digital Twins"
+message: "If you use the Qarin profiles or this software, please cite the report below."
+type: software
+authors:
+  - family-names: Shaban
+    given-names: Tariq
+    affiliation: Miraai Ltd
+version: 1.0.0
+date-released: 2026-09-30
+license-url: "https://polyformproject.org/licenses/noncommercial/1.0.0"
+preferred-citation:
+  type: report
+  title: "The pilot before the pilot: Digital twins of 662 known respondents as a pilot sample for new items"
+  authors:
+    - family-names: Shaban
+      given-names: Tariq
+  institution:
+    name: Miraai Ltd
+  number: MIR-TR-007
+  year: 2026
+  url: "https://osf.io/rh3m7/"

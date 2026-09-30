@@ -1,0 +1,197 @@
+scale,item_id,key
+Openness to Experience,h001,-1
+Openness to Experience,h007,1
+Openness to Experience,h013,-1
+Openness to Experience,h019,-1
+Openness to Experience,h025,-1
+Openness to Experience,h031,1
+Openness to Experience,h037,1
+Openness to Experience,h043,1
+Openness to Experience,h049,1
+Openness to Experience,h055,-1
+Openness to Experience,h061,1
+Openness to Experience,h067,1
+Openness to Experience,h073,1
+Openness to Experience,h079,-1
+Openness to Experience,h085,-1
+Openness to Experience,h091,-1
+Conscientiousness,h002,1
+Conscientiousness,h008,1
+Conscientiousness,h014,1
+Conscientiousness,h020,-1
+Conscientiousness,h026,1
+Conscientiousness,h032,1
+Conscientiousness,h038,-1
+Conscientiousness,h044,-1
+Conscientiousness,h050,-1
+Conscientiousness,h056,-1
+Conscientiousness,h062,1
+Conscientiousness,h068,1
+Conscientiousness,h074,-1
+Conscientiousness,h080,-1
+Conscientiousness,h086,1
+Conscientiousness,h092,-1
+Agreeableness,h003,1
+Agreeableness,h009,-1
+Agreeableness,h015,-1
+Agreeableness,h021,-1
+Agreeableness,h027,1
+Agreeableness,h033,1
+Agreeableness,h039,1
+Agreeableness,h045,1
+Agreeableness,h051,-1
+Agreeableness,h057,1
+Agreeableness,h063,-1
+Agreeableness,h069,1
+Agreeableness,h075,-1
+Agreeableness,h081,1
+Agreeableness,h087,-1
+Agreeableness,h093,-1
+Extraversion,h004,1
+Extraversion,h010,-1
+Extraversion,h016,-1
+Extraversion,h022,1
+Extraversion,h028,1
+Extraversion,h034,1
+Extraversion,h040,1
+Extraversion,h046,1
+Extraversion,h052,-1
+Extraversion,h058,1
+Extraversion,h064,1
+Extraversion,h070,-1
+Extraversion,h076,-1
+Extraversion,h082,-1
+Extraversion,h088,1
+Extraversion,h094,-1
+Emotionality,h005,1
+Emotionality,h011,1
+Emotionality,h017,1
+Emotionality,h023,1
+Emotionality,h029,-1
+Emotionality,h035,-1
+Emotionality,h041,-1
+Emotionality,h047,1
+Emotionality,h053,1
+Emotionality,h059,-1
+Emotionality,h065,1
+Emotionality,h071,1
+Emotionality,h077,-1
+Emotionality,h083,1
+Emotionality,h089,-1
+Emotionality,h095,-1
+Honesty-Humility,h006,-1
+Honesty-Humility,h012,-1
+Honesty-Humility,h018,1
+Honesty-Humility,h024,1
+Honesty-Humility,h030,1
+Honesty-Humility,h036,-1
+Honesty-Humility,h042,-1
+Honesty-Humility,h048,1
+Honesty-Humility,h054,-1
+Honesty-Humility,h060,1
+Honesty-Humility,h066,-1
+Honesty-Humility,h072,-1
+Honesty-Humility,h078,1
+Honesty-Humility,h084,-1
+Honesty-Humility,h090,-1
+Honesty-Humility,h096,-1
+Altruism (interstitial),h097,1
+Altruism (interstitial),h098,1
+Altruism (interstitial),h099,-1
+Altruism (interstitial),h100,-1
+Aesthetic Appreciation,h001,-1
+Aesthetic Appreciation,h025,-1
+Aesthetic Appreciation,h049,1
+Aesthetic Appreciation,h073,1
+Organization,h002,1
+Organization,h026,1
+Organization,h050,-1
+Organization,h074,-1
+Forgiveness,h003,1
+Forgiveness,h027,1
+Forgiveness,h051,-1
+Forgiveness,h075,-1
+Social Self-Esteem,h004,1
+Social Self-Esteem,h028,1
+Social Self-Esteem,h052,-1
+Social Self-Esteem,h076,-1
+Fearfulness,h005,1
+Fearfulness,h029,-1
+Fearfulness,h053,1
+Fearfulness,h077,-1
+Sincerity,h006,-1
+Sincerity,h030,1
+Sincerity,h054,-1
+Sincerity,h078,1
+Inquisitiveness,h007,1
+Inquisitiveness,h031,1
+Inquisitiveness,h055,-1
+Inquisitiveness,h079,-1
+Diligence,h008,1
+Diligence,h032,1
+Diligence,h056,-1
+Diligence,h080,-1
+Gentleness,h009,-1
+Gentleness,h033,1
+Gentleness,h057,1
+Gentleness,h081,1
+Social Boldness,h010,-1
+Social Boldness,h034,1
+Social Boldness,h058,1
+Social Boldness,h082,-1
+Anxiety,h011,1
+Anxiety,h035,-1
+Anxiety,h059,-1
+Anxiety,h083,1
+Fairness,h012,-1
+Fairness,h036,-1
+Fairness,h060,1
+Fairness,h084,-1
+Creativity,h013,-1
+Creativity,h037,1
+Creativity,h061,1
+Creativity,h085,-1
+Perfectionism,h014,1
+Perfectionism,h038,-1
+Perfectionism,h062,1
+Perfectionism,h086,1
+Flexibility,h015,-1
+Flexibility,h039,1
+Flexibility,h063,-1
+Flexibility,h087,-1
+Sociability,h016,-1
+Sociability,h040,1
+Sociability,h064,1
+Sociability,h088,1
+Dependence,h017,1
+Dependence,h041,-1
+Dependence,h065,1
+Dependence,h089,-1
+Greed-Avoidance,h018,1
+Greed-Avoidance,h042,-1
+Greed-Avoidance,h066,-1
+Greed-Avoidance,h090,-1
+Unconventionality,h019,-1
+Unconventionality,h043,1
+Unconventionality,h067,1
+Unconventionality,h091,-1
+Prudence,h020,-1
+Prudence,h044,-1
+Prudence,h068,1
+Prudence,h092,-1
+Patience,h021,-1
+Patience,h045,1
+Patience,h069,1
+Patience,h093,-1
+Liveliness,h022,1
+Liveliness,h046,1
+Liveliness,h070,-1
+Liveliness,h094,-1
+Sentimentality,h023,1
+Sentimentality,h047,1
+Sentimentality,h071,1
+Sentimentality,h095,-1
+Modesty,h024,1
+Modesty,h048,1
+Modesty,h072,-1
+Modesty,h096,-1

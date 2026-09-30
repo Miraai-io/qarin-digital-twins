@@ -1,0 +1,12 @@
+item_id,text,format,factor
+pl_01,I plan my week before it starts.,agree5,Co
+pl_02,I keep track of deadlines without being reminded.,agree5,Co
+pl_03,I often start tasks without thinking them through.,agree5,Co
+pl_04,I finish what I start before moving on.,agree5,Co
+se_01,I find it easy to talk to people I have just met.,agree5,Ex
+se_02,I enjoy being the one who starts a conversation.,agree5,Ex
+se_03,I would rather listen than speak in a group.,agree5,Ex
+se_04,I feel comfortable speaking up in meetings.,agree5,Ex
+ch_01,How often do you check your work a second time before handing it in?,freq5,Co
+ch_02,How often do you lose track of small details?,freq5,Co
+ch_03,How often do you make a list before starting a job?,freq5,Co

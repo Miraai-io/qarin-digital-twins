@@ -1,0 +1,4 @@
+item_id,text,format,factor
+my_01,Write the item exactly as respondents will read it.,agree5,
+my_02,"Use quotes around text that contains a comma, like this one.",agree5,Co
+my_03,This item uses a format you define in formats.csv.,freq5,
