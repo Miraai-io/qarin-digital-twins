@@ -8,7 +8,7 @@ people on a public instrument.
 A twin is a language-model respondent built from one person's biodata and a written profile of their
 personality. Miraai calls its twins **Qarin profiles**, from the Arabic *qarin* (قرين), companion,
 pronounced ka-REEN. The method and its evidence are in the report *The Pilot Before the Pilot*
-(MIR-TR-007, Miraai Ltd, 2026), on OSF: https://osf.io/rh3m7/.
+(MIR-TR-007, Miraai Ltd, 2026), on OSF: https://osf.io/pv67f/.
 
 For noncommercial research and teaching. See [License](#license).
 
@@ -91,7 +91,7 @@ No Miraai or HEXACO item text is included, and none is needed to use the twins o
 ## Quick start
 
 ```bash
-git clone <repository URL> qarin-digital-twins
+git clone https://github.com/Miraai-io/qarin-digital-twins.git
 cd qarin-digital-twins
 pip install -r requirements.txt
 python tests/test_offline.py                      # should end with "offline test passed"
@@ -357,7 +357,7 @@ tariq@miraai.me.
 ## Citation
 
 Shaban, T. (2026). *The pilot before the pilot: Digital twins of 662 known respondents as a pilot sample
-for new items* (MIR-TR-007). Miraai Ltd. https://osf.io/rh3m7/
+for new items* (MIR-TR-007). Miraai Ltd. https://osf.io/pv67f/
 
 When you use the HEXACO-100 data, also cite:
 

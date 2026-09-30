@@ -9,6 +9,8 @@ authors:
 version: 1.0.0
 date-released: 2026-09-30
 license-url: "https://polyformproject.org/licenses/noncommercial/1.0.0"
+repository-code: "https://github.com/Miraai-io/qarin-digital-twins"
+url: "https://github.com/Miraai-io/qarin-digital-twins"
 preferred-citation:
   type: report
   title: "The pilot before the pilot: Digital twins of 662 known respondents as a pilot sample for new items"
@@ -19,4 +21,4 @@ preferred-citation:
     name: Miraai Ltd
   number: MIR-TR-007
   year: 2026
-  url: "https://osf.io/rh3m7/"
+  url: "https://osf.io/pv67f/"
